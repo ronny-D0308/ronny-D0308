@@ -12,7 +12,9 @@
  <br>
  <div>
     <a href="https://www.instagram.com/ronnydouglas021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+
+<img src="Dollify-3b6a4e5b-6698-4ee0-8b37-a42d41348f39-0"
+alt=".." width="20px">  
   </div>
 
 
