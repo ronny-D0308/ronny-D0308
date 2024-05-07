@@ -1,6 +1,6 @@
 <h1> Hello my name is Ronny Douglas, i'm a System Developmente </h1>
 <hr>
-- 😄 Pronouns: Ele <br>
+
 - Studying: System Development 💻
 
 <br>
