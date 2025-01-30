@@ -1,7 +1,7 @@
 <h1> Hello my name is Ronny Douglas, i'm a System Developmente </h1>
 <hr>
 
-- Studying: System Development 💻
+- systems development technician 💻
 
 <br>
 <div style="display: inline_block"><br>
