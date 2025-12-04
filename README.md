@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 Sobre mim
+🚀 Sobre mim
 Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente estudo e desenvolvo projetos utilizando diversas linguagens e ferramentas para evoluir minhas habilidades como desenvolvedor.
 
 ---
 
-### 💻 Tecnologias que utilizo
+💻 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
 
@@ -26,22 +26,10 @@ Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualme
 
 ---
 
-### 📲 Redes Sociais
+📲 Redes Sociais
 
 <div>
   <a href="https://www.instagram.com/ronnydouglas021/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
-
----
-
-### 📊 Estatísticas do GitHub *(opcional)*
-
-Você também pode adicionar essas se quiser deixar seu perfil mais completo:
-
-```md
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight">
 </div>
