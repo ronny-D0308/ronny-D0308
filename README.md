@@ -3,7 +3,7 @@
 
 ---
 
-🚀 Sobre mim
+🚀 Sobre mim <br>
 Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente estudo e desenvolvo projetos utilizando diversas linguagens e ferramentas para evoluir minhas habilidades como desenvolvedor.
 
 ---
