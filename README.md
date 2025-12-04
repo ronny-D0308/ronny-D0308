@@ -1,10 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Ronny Douglas</h1>
-<h3 align="center">Técnico em Desenvolvimento de Sistemas</h3>
+<h3 align="center">Técnico em Desenvolvimento de Sistemas | Business Intelligence</h3>
 
 ---
 
 🚀 Sobre mim <br>
-Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente estudo e desenvolvo projetos utilizando diversas linguagens e ferramentas para evoluir minhas habilidades como desenvolvedor.
+Sou Técnico em Desenvolvimento de Sistemas e entusiasta da área de tecnologia. Busco sempre evoluir minhas habilidades criando projetos práticos e explorando novas ferramentas.
+<br>
+Além do desenvolvimento, também possuo formação em **Business Intelligence**, onde aprendi a criar análises e dashboards profissionais utilizando o **Power BI**. Concluí cursos como **Data Driven** e **Xperiun**, que reforçaram minhas competências em análise de dados, indicadores e visualização estratégica.
 
 ---
 
@@ -22,7 +24,23 @@ Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualme
 
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
+  <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+
 </div>
+
+---
+
+📊 Formações e Cursos
+
+- 💼 **Business Intelligence**
+  - Power BI (Dashboards, ETL, Modelagem e KPIs)
+  - Curso **Data Driven**
+  - Curso **Xperiun**
+
+- 💻 **Desenvolvimento de Sistemas**
+  - Lógica de Programação
+  - Desenvolvimento Web
+  - Python, PHP, Java
 
 ---
 
