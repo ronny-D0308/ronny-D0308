@@ -1,27 +1,47 @@
-<h1> Meu nome é Ronny Douglas sou técnico em desenvolvimento de sistemas </h1>
-<hr>
+<h1 align="center">👋 Olá! Eu sou o Ronny Douglas</h1>
+<h3 align="center">Técnico em Desenvolvimento de Sistemas</h3>
 
-- Técnico em desenvolvimento de sistemas 💻
+---
 
-<br>
+### 🚀 Sobre mim
+Sou técnico em Desenvolvimento de Sistemas e apaixonado por tecnologia. Atualmente estudo e desenvolvo projetos utilizando diversas linguagens e ferramentas para evoluir minhas habilidades como desenvolvedor.
+
+---
+
+### 💻 Tecnologias que utilizo
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="RD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img align="center" alt="RD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="RD-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="center" alt="RD-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)">
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="40">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
- <br>
- <br> 
+</div>
 
- <div>
-    <a href="https://www.instagram.com/ronnydouglas021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+---
 
+### 📲 Redes Sociais
 
-  </div>
+<div>
+  <a href="https://www.instagram.com/ronnydouglas021/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
+---
 
+### 📊 Estatísticas do GitHub *(opcional)*
+
+Você também pode adicionar essas se quiser deixar seu perfil mais completo:
+
+```md
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight">
+</div>
